@@ -1,0 +1,31 @@
+<resources>
+    <!-- Core -->
+    <string name="app_name">CambiaDietas</string>
+    <string name="food_image_description">Foto de la comida</string>
+    <string name="back_icon_description">Volver atrás</string>
+    <string name="select_food_label_text">INICIO</string>
+    <string name="select_food_icon_description">Inicio</string>
+    <string name="categories_label_text">CATEGORÍAS</string>
+    <string name="categories_icon_description">Categorías</string>
+    <string name="tips_label_text">CONSEJOS</string>
+    <string name="tips_icon_description">Consejos</string>
+
+    <!-- Change Diet -->
+    <!-- Select Food -->
+    <string name="logo_description">Logo de CambiaDietas</string>
+    <string name="food_picker_headline_start">Elige el alimento que quieres cambiar:</string>
+    <!-- Select Alternative Food -->
+    <string name="food_picker_headline_selected_food">Elige el alimento que prefieres comer:</string>
+    <string name="arrow_icon_description">Icono de una flecha</string>
+    <string name="food_amount_error">Has introducido un valor incorrecto</string>
+
+    <!-- Categories -->
+    <string name="ad_id_banner">ca-app-pub-9771408617801489/4115374442</string>
+
+    <!-- Tips -->
+    <string name="contact_message">Si quieres atención profesional personalizada, contacta con la dietista Mónica Barrera: monicabarrerarobles@gmail.com</string>
+    <string name="email">monicabarrerarobles@gmail.com</string>
+    <string name="click_image_description">Imagen de Click</string>
+    <string name="dietist_image_description">Imagen de una dietista</string>
+    <string name="subject">¡Hola! Busco la ayuda de una dietista :)</string>
+</resources>
